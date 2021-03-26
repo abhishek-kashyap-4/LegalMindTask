@@ -4,4 +4,4 @@ The images might be skewed, so the code first tries to deskew before performing 
 
 ![Normal Image](output1.JPG)
 
-![Skewed Image](\output2.jpg)
+![Skewed Image](output2.JPG)
